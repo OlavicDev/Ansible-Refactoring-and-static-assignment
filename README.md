@@ -285,7 +285,9 @@ http://<Web1-UAT-Public-IP>/index.php
 ```
 ![image](https://github.com/user-attachments/assets/f284d8a6-fe16-48e4-ba1a-d560790d8467)
 
+
 Our Ansible architecture now looks like this:
+
 ![image](https://github.com/user-attachments/assets/93148d3c-0603-4c8b-9025-d9b06952da9b)
 
 
